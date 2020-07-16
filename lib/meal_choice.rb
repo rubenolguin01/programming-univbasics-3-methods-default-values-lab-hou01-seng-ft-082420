@@ -5,4 +5,4 @@ def meal_choice(veg1, veg2, protein = 'tofu')
   meal
 end
 
-meal_choice('ham','egg','cheese')
+meal_choice('carrots','string beans','lentils')
